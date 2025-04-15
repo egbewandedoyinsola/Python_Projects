@@ -1,6 +1,6 @@
 # 🕵️‍♀️ LA Crime Data Analysis Project
 
-Kindly check out the data for the **LA Crime Project** here(https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data).
+Kindly check out the data for the **LA Crime Project** here([https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)). Please note that the data might have changed as it keeps getting updated.
 
 ---
 
