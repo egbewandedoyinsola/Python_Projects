@@ -31,4 +31,4 @@ Kindly check out the data for the **LA Crime Project** here([https://data.lacity
 ---
 
 Thanks for checking out this project! 🙌  
-Feel free to explore the notebook and reach out with feedback.
+Feel free to check LA Crime Project.ipynb and reach out with feedback.
