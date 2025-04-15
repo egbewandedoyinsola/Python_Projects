@@ -1,12 +1,34 @@
-Kindly check out the data for the LA Crime Project here https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data
-**Key skills I improved on while working on this project**
-Importing Pandas and matplotlib.
-Reading in a csv file.
-Checking Nulls usin .isna().
-Dropping columns that contain NaN.
-Sorting columns within a dataframe.
-**Key take aways**
-Creating new columns within a dataframe such as year and month.
-Creating different visuals using matplotlib.
-Overall I was able to tell a story with the data presented such as figuring out the Top 3 crimes by Average Victim Age, a line chart of Crime over Time...
-Thank you for taking a look at this project.
+# 🕵️‍♀️ LA Crime Data Analysis Project
+
+Kindly check out the data for the **LA Crime Project** here(https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data).
+
+---
+
+## 🛠️ Key Skills Improved
+
+- Importing and using **Pandas** and **Matplotlib**
+- Reading data from a CSV file
+- Checking for missing values using `.isna()`
+- Dropping columns containing `NaN` values
+- Sorting columns within a DataFrame
+
+---
+
+## 📌 Key Takeaways
+
+- Created new columns within the DataFrame (e.g., extracting **year** and **month**)
+- Built various visualizations using **Matplotlib**
+- Practiced basic data cleaning and transformation techniques
+
+---
+
+## 📊 Insights Uncovered
+
+- Identified the **Top 3 crimes** by **Average Victim Age**
+- Visualized **crime trends over time** using a line chart
+- Told a simple story using data-driven insights
+
+---
+
+Thanks for checking out this project! 🙌  
+Feel free to explore the notebook and reach out with feedback.
